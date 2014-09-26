@@ -1,0 +1,69 @@
+body 
+{
+  background-color:#2d3e50;
+  font-family: Clear-Sans;
+}
+@font-face {
+    font-family: 'Clear-Sans'; /*a name to be used later*/
+    src: url('http:clear-sans/ClearSans-Medium.ttf'); /*URL to font*/
+}
+.panel
+{
+  border-style:solid;
+  border-width:1px;
+  margin-top: 10px;
+  font-family: Clear-Sans;
+  margin-bottom: 10px;
+  opacity: 0.5;
+  padding:0.5rem;
+  width: 100%;
+  height: 50%;
+  }
+  .ri{
+    margin-right: 10px;
+  }
+.col1{
+  background:#35556c;
+  border-color:#35556c;
+}
+.hv1:hover {
+  opacity: 1;
+}
+.hv2:hover {
+    opacity: 1;
+}
+.hv3:hover {
+    opacity: 1;
+}
+.hv4:hover {
+    opacity: 1;
+}
+.col2{
+  background:#704f56;
+  border-color:#704f56;
+}
+.col3{
+  background:#558265;
+  border-color:#558265;
+}
+.col4{
+  background:#596976;
+  border-color:#596976;
+}
+.top{
+  margin-top: 10px;
+}
+#Container .mix{
+  display: none;
+}
+h6{
+  font-size: 0.8rem;
+  font-family: Clear-Sans;
+}
+h5{
+  font-size: 0.9rem;
+  font-family: Clear-Sans;
+}
+.button{
+  font-family: Clear-Sans;
+}
